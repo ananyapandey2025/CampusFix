@@ -2,6 +2,12 @@
 
 **CampusFix** is an AI-powered platform designed to transform disorganized campus maintenance into a transparent, data-driven operation. It replaces informal reporting methods like WhatsApp, verbal notes, and paper slips with a closed-loop system that ensures accountability from submission to resolution.
 
+# CampusFix 🚀
+
+🔗 Live Demo:[ https://your-deployed-link.com](https://campusfixprototype.netlify.app/)
+
+A campus issue reporting system that allows students to report and track problems efficiently.
+
 ---
 
 ## **🚀 The Problem: The Hidden Cost of Chaos**
