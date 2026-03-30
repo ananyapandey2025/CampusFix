@@ -4,7 +4,7 @@
 
 # CampusFix 🚀
 
-🔗 Live Demo:[ https://your-deployed-link.com](https://campusfixprototype.netlify.app/)
+🔗 Live Demo:[ CampusFix ](https://campusfixprototype.netlify.app/)
 
 A campus issue reporting system that allows students to report and track problems efficiently.
 
