@@ -12,7 +12,7 @@ Traditional campus reporting suffers from systemic inefficiencies:
 * **The "Band-Aid" Cycle:** Recurring faults are treated as new issues every time, wasting maintenance budgets on repetitive, temporary repairs.
 * **Delayed Action:** Critical infrastructure failures get buried under minor requests due to a lack of automated prioritization.
 
-## **💡 Our Solution**
+## **💡 The Solution**
 CampusFix provides a centralized dashboard and AI engine to shift campus management from "reactive" fixing to "proactive" asset replacement.
 
 ### **Core Features**
